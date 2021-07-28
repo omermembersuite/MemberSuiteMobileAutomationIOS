@@ -35,37 +35,8 @@ public class LoginFunctionalityStepDefs {
 //        loginPage.signIn.click();
 //
 //    }
-//
-//    @Then("user should see Evercast Logo")
-//    public void user_should_see_Evercast_Logo() {
-//        MobileUtilities.wait(2);
-////        loginPage.ExistingRoomLaunch.click();
-//    }
-//
-//    @Then("user click on Evercast Logo")
-//    public void user_click_on_Evercast_Logo() {
-////        MobileUtilities.wait(2);
-////        loginPage.OKforMicrophone.click();
-////        MobileUtilities.wait(2);
-////        loginPage.OKforMicrophone.click();
-////        MobileUtilities.wait(2);
-////        loginPage.GoLiveButton.click();
-////        MobileUtilities.wait(5);
-////        loginPage.ActivateHiddenElement.click();
-////        MobileUtilities.wait(3);
-////        loginPage.microphoneOnHiddenBar.click();
-////        MobileUtilities.wait(3);
-////        loginPage.deviceSettingsOnHiddenBar.click();
-////        MobileUtilities.wait(3);
-////        loginPage.saveButtonOnDeviceSettings.click();
-////        MobileUtilities.wait(3);
-////        loginPage.ActivateHiddenElement.click();
-////        MobileUtilities.wait(1);
-////        allLocators.MoreButtonHiddenBar.click();
-////        MobileUtilities.wait(3);
-//
-//
-//    }
+
+
 //
 //    @Then("user should be able to see own Dashboard")
 //    public void user_should_be_able_to_see_own_Dashboard() {
@@ -79,11 +50,6 @@ public class LoginFunctionalityStepDefs {
 //    public void user_is_on_the_Login_Page() {
 //        System.out.println("System is working");
 //        MobileUtilities.wait(3);
-//    }
-//
-//    @Then("user should be able to see Evercast Logo on Login Page")
-//    public void user_should_be_able_to_see_Evercast_Logo_on_Login_Page() {
-//        Assert.assertTrue(loginPage.evercastLogo.isEnabled());
 //    }
 //
 //    @Then("user should be able to see Welcome on Login Page")
